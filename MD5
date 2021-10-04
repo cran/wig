@@ -1,0 +1,15 @@
+f09ee23a7556e46ff7cfb7a542f197da *DESCRIPTION
+64b7c15e1bf6c360d7fc1229cfad4632 *LICENSE
+69babf099be96309317abde57628a537 *NAMESPACE
+d147f658bdd2f5eabfdfe509cbff35aa *R/expand_block.R
+74177ec09ef3eef3b89ef8d9f24d69df *R/import_wig.R
+b0bf774e7841a1170a8983a9d6af6c75 *R/parse_declaration.R
+b56ff2b193ecba52f9ec7f3b10cca008 *R/utils-pipe.R
+2ecc292c7c70ea6ba720a7162ba91013 *README.md
+b5e97e6a0c6f95a5da7ee715b5ccce00 *inst/WORDLIST
+7a7b2de987cc3760dc659dd64ff659df *inst/extdata/hg19-pik3ca.wig
+322070d511f3cdd876b15b63597cb9c8 *man/figures/README-unnamed-chunk-3-1.png
+56f9923c082e06c144220c5331e6ce68 *man/figures/README-unnamed-chunk-3-1.svg
+6865ba30946198301e8a78295202f141 *man/import_wig.Rd
+774d9de8e95aa151215efcd304549d41 *man/pipe.Rd
+0622a97a2aaa3c342f09636052c2d7f5 *tests/spelling.R
